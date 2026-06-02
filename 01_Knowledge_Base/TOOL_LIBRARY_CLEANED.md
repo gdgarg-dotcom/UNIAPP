@@ -1,30 +1,37 @@
 # TOOL_LIBRARY
 
 ## CRM & MARKETING AUTOMATION
-- Salesforce
+- Salesforce CRM
 - HubSpot
 - Marketo Engage
 - Oracle Eloqua
+- Mailchimp
 
 ## AI & AUTOMATION
-- OpenAI GPT
-- Claude
+- OpenAI GPT-4 / ChatGPT
+- Anthropic Claude
 - n8n
 - Dify
-- Retell
-- APIs & Webhooks
+- Retell AI
+- APIs, Webhooks & Replit
 
 ## PAID MEDIA & PERFORMANCE
 - Google Ads
 - LinkedIn Campaign Manager
 - DV360
-- Meta Ads
+- Meta Ads (Facebook/Instagram)
 - YouTube Ads
+- Programmatic Media Buying
 
 ## ANALYTICS & DATA
-- GA4
+- Google Analytics 4 (GA4)
 - Adobe Analytics
 - Tableau
 - Looker Studio
 - Domo
 - Power BI
+
+## ABM & INTENT DATA
+- Demandbase
+- 6sense
+- Intent Intelligence Platforms

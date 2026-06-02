@@ -4,14 +4,16 @@
 
 **Location:** New Delhi / Gurugram, India  
 **LinkedIn:** linkedin.com/in/gdgarg
+**Phone:** +91-9871121860  
+**Email:** gdgarg@gmail.com  
 
 ## EXECUTIVE PROFILE
 
-Growth, Demand Generation, and AI Transformation leader with 20 years of experience driving enterprise GTM strategy, performance marketing, and marketing operations across global technology organizations.
+Growth, Demand Generation, and AI Transformation leader with 20 years of experience driving enterprise GTM strategy, performance marketing, and marketing operations across global technology organizations. 
 
-Proven track record managing $3M–$4M+ annual marketing investments across APAC, EMEA, India, and Americas to deliver measurable pipeline, revenue, and conversion impact.
+Proven track record managing $3M–$4M+ annual marketing investments across APAC, EMEA, India, and Americas to deliver measurable pipeline, revenue, and conversion impact. 
 
-Specialized in aligning marketing, sales, analytics, and AI-enabled workflows to improve operational efficiency and business growth.
+Specialized in aligning marketing, sales, analytics, and AI-enabled workflows to improve operational efficiency and business growth. 
 
 ## CORE SPECIALIZATIONS
 
@@ -26,11 +28,14 @@ Specialized in aligning marketing, sales, analytics, and AI-enabled workflows to
 ## VALIDATED BUSINESS IMPACT
 
 - Delivered 15x ROMI on $4M+ annual marketing investments.
-- Increased qualified pipeline growth by 25% YoY.
+- Increased qualified pipeline growth by 25% YoY through integrated GTM programs.
 - Improved qualified conversions by 22% YoY while reducing CAC/CPA by 15%–17%.
 - Built demand systems generating 400+ enterprise-qualified leads annually.
 - Expanded digital reach by 325% and increased web traffic by 400% YoY.
 - Improved attribution accuracy and reporting visibility by 25%.
+- Achieved 40% account penetration in target enterprise accounts within 6 months.
+- Generated $120K in bookings during the first phase of B2B SaaS Marketplace launch.
+- Improved brand score by 2.5 points and brand recall by 9%.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -38,17 +43,19 @@ Specialized in aligning marketing, sales, analytics, and AI-enabled workflows to
 **Marketing Manager – Global Growth, Strategy & GTM Operations**  
 Jul 2024 – Present
 
-- Lead AI-enabled transformation and GTM initiatives across APAC, EMEA, and Americas.
-- Manage $3M+ global marketing investments focused on ROI and pipeline growth.
-- Drive demand generation, ABM, and executive reporting programs.
-- Improved qualified conversions by 22% through experimentation and analytics-led optimization.
+- Lead enterprise demand generation, global growth, and GTM operations across APJC, EMEA, and Americas.
+- Manage $3M+ marketing budgets and drive global digital campaign execution.
+- Standardized program governance and PMO processes across divisions to ensure launch readiness.
+- Pioneered AI-native workflow transformation, deploying AI-based lead qualification engines that improved sales-ready lead quality and saved 30+ weekly hours of manual review.
+- Increased qualified conversions by 22% YoY and reduced CPA by 17% through landing page, creative, and bidding optimization.
 
 ### Cisco Systems
 **Digital Marketing Lead – Strategy, Growth & APJC Programs**  
 Feb 2011 – Apr 2024
 
-- Led regional demand generation and GTM programs across India and APJC.
-- Managed $4M+ annual media budgets across Search, Social, Programmatic, and Video.
-- Transitioned regional marketing into integrated full-funnel growth architecture.
-- Improved attribution visibility by 25% through GA4 and Salesforce modernization.
-- Increased pipeline conversion by 20% through Sales-Marketing alignment.
+- Directed regional demand generation, performance marketing, and regional campaign governance across APJC markets.
+- Managed $4M+ annual media investments across Search, Social, Programmatic, and Video, delivering a consistent 15x ROMI.
+- Spearheaded the transition from legacy UA to GA4, integrating Salesforce CRM data to improve end-to-end attribution visibility by 25%.
+- Aligned sales and marketing workflows, accelerating pipeline velocity and increasing lead-to-opportunity conversion by 20%.
+- Led high-value cross-functional initiatives, including a B2B SaaS Marketplace launch that generated $120K in bookings.
+- Managed Eloqua and Salesforce systems for automated email nurture, lead scoring, and pipeline reporting.

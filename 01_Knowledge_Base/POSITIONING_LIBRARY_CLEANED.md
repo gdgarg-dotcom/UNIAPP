@@ -1,53 +1,46 @@
 # POSITIONING_LIBRARY
 
-## GenAI Marketing Transformation Leader
+## VP Demand Generation
+- **Core Themes**: Full-Funnel Demand Engine, Pipeline Acceleration, Sales-Marketing Alignment.
+- **Strongest Keywords**: Demand Engine, Funnel Optimization, Lead Scoring, Revenue Marketing.
+- **Ideal Roles**: VP Demand Generation, Director of Growth & Demand, Revenue Marketing Director.
 
-### Core Themes
-- AI Transformation
-- Workflow Automation
-- Marketing Operations
-- Strategic Reinvention
+## Head of ABM
+- **Core Themes**: Enterprise Account Engagement, ABM Orchestration, Intent-Driven Targeting.
+- **Strongest Keywords**: Demandbase, 6sense, 1:1 ABM, Account Penetration.
+- **Ideal Roles**: Head of ABM, Enterprise Marketing Director, Account-Based Marketing Lead.
 
-### Strongest Keywords
-GenAI Strategy, AI Implementation, Operating Model Design, Workflow Automation
+## VP Growth Marketing
+- **Core Themes**: Customer Acquisition, Funnel Experimentation, Conversion Optimization.
+- **Strongest Keywords**: A/B Testing, Lifecycle Marketing, CRO, Acquisition Efficiency.
+- **Ideal Roles**: VP Growth Marketing, Head of Growth, Digital Acquisition Lead.
 
-### Ideal Roles
-- VP Marketing Transformation
-- Head of Marketing Innovation
-- AI Strategy Lead
+## Paid Media Director
+- **Core Themes**: Paid Media Scaling, Media Budget Governance, Agency Management.
+- **Strongest Keywords**: ROAS, Budget Pacing, Paid Search & Programmatic, Media Planning.
+- **Ideal Roles**: Paid Media Director, Head of Media Buying, Global Media Investment Lead.
 
----
+## AI Transformation Leader
+- **Core Themes**: GenAI Workflows, Marketing Operations Automation, Operating Model Design.
+- **Strongest Keywords**: n8n, Dify, Retell, AI-Native Workflows, Prompt Architecture.
+- **Ideal Roles**: Head of Marketing Innovation, VP Marketing Transformation, AI Strategy Lead.
 
-## Global ABM & Revenue Marketing Leader
+## Head of Performance Marketing
+- **Core Themes**: Performance Acquisition, CAC/CPA Optimization, Multi-Channel Performance.
+- **Strongest Keywords**: CPA Reduction, CAC/LTV, Budget Allocation, Funnel Performance.
+- **Ideal Roles**: Head of Performance Marketing, Performance Marketing Director.
 
-### Core Themes
-- Enterprise ABM
-- Pipeline Acceleration
-- Revenue Marketing
-- Multi-Region GTM
+## Head of Digital Marketing
+- **Core Themes**: Web Conversion Journeys, Automation Systems, Channel Management.
+- **Strongest Keywords**: Eloqua, Marketo, Web UX, Digital Analytics.
+- **Ideal Roles**: Head of Digital Marketing, Digital Operations Lead.
 
-### Strongest Keywords
-Demandbase, 6sense, Pipeline Growth, Account Engagement
+## Head of Marketing
+- **Core Themes**: Regional Field Strategy, Event Marketing, Sales Enablement, Partner GTM.
+- **Strongest Keywords**: Event Orchestration, Sales Alignment, Channel Enablement, Regional GTM.
+- **Ideal Roles**: Head of Marketing, Field Marketing Director, Regional Program Director.
 
-### Ideal Roles
-- VP Demand Generation
-- Head of ABM
-- Revenue Marketing Director
-
----
-
-## Performance Marketing & Growth Leader
-
-### Core Themes
-- Full-Funnel Growth
-- Paid Media
-- Attribution
-- CAC Optimization
-
-### Strongest Keywords
-ROAS, CAC, GA4, Programmatic
-
-### Ideal Roles
-- VP Growth Marketing
-- Head of Performance Marketing
-- Paid Media Director
+## Head of Brand Marketing
+- **Core Themes**: Brand Awareness, Thought Leadership, Integrated Campaigns.
+- **Strongest Keywords**: Brand Score Consideration, Video Strategy, Mass Reach.
+- **Ideal Roles**: Head of Brand Marketing, Brand Strategy Director, Marketing Director.

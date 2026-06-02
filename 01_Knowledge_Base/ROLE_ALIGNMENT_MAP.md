@@ -4,116 +4,135 @@ This file maps target job families to the best matching positioning archetype an
 
 ## VP DEMAND GENERATION
 Primary archetype:
-- Global ABM & Revenue Marketing Leader
+- VP Demand Generation
 
 Secondary support:
-- GTM Operations & Program Governance Leader
-- Performance Marketing & Growth Leader
+- Head of ABM
+- Paid Media Director
 
 Priority tags:
 - DEMAND_GENERATION
-- ABM
 - PIPELINE
-- REVENUE_MARKETING
 - SALES_ALIGNMENT
 - ENTERPRISE
+- REVENUE_MARKETING
 
 ## HEAD OF ABM
 Primary archetype:
-- Global ABM & Revenue Marketing Leader
+- Head of ABM
 
 Secondary support:
-- GTM Operations & Program Governance Leader
+- VP Demand Generation
+- GTM Operations & Governance
 
 Priority tags:
 - ABM
 - ACCOUNT_ENGAGEMENT
 - INTENT_DATA
 - PIPELINE
-- REVENUE
+- SALES_ALIGNMENT
 
 ## VP GROWTH MARKETING
 Primary archetype:
-- Performance Marketing & Growth Leader
+- VP Growth Marketing
 
 Secondary support:
-- Global ABM & Revenue Marketing Leader
+- Head of Performance Marketing
+- Head of Digital Marketing
 
 Priority tags:
-- PERFORMANCE_MARKETING
-- CAC
-- ROI
-- CONVERSION
-- ATTRIBUTION
 - GROWTH
-
-## HEAD OF PERFORMANCE MARKETING
-Primary archetype:
-- Performance Marketing & Growth Leader
-
-Secondary support:
-- GTM Operations & Program Governance Leader
-
-Priority tags:
-- PERFORMANCE_MARKETING
-- PAID_MEDIA
-- CAC
-- ROAS
-- ATTRIBUTION
 - CONVERSION
+- EXPERIMENTATION
+- CAC
+- LTV
 
-## VP MARKETING TRANSFORMATION
+## PAID MEDIA DIRECTOR
 Primary archetype:
-- GenAI Marketing Transformation Leader
+- Paid Media Director
 
 Secondary support:
-- GTM Operations & Program Governance Leader
+- Head of Performance Marketing
+- Head of Digital Marketing
 
 Priority tags:
-- AI_TRANSFORMATION
-- AUTOMATION
-- MARKETING_OPERATIONS
-- TRANSFORMATION
-- GOVERNANCE
+- PAID_MEDIA
+- ROAS
+- BUDGET_PACING
+- GOOGLE_ADS
+- LINKEDIN_ADS
 
-## HEAD OF MARKETING OPERATIONS
+## VP MARKETING TRANSFORMATION / AI STRATEGY
 Primary archetype:
-- GTM Operations & Program Governance Leader
+- AI Transformation Leader
 
 Secondary support:
-- GenAI Marketing Transformation Leader
-
-Priority tags:
-- MARKETING_OPERATIONS
-- GOVERNANCE
-- WORKFLOW_STANDARDIZATION
-- EXECUTIVE_REPORTING
-- CROSS_FUNCTIONAL
-
-## GTM LEADERSHIP / REGIONAL PROGRAM DIRECTOR
-Primary archetype:
-- GTM Operations & Program Governance Leader
-
-Secondary support:
-- Performance Marketing & Growth Leader
-
-Priority tags:
-- GTM
-- LAUNCH_READINESS
-- REGIONAL
-- GOVERNANCE
-- PIPELINE
-
-## AI STRATEGY / MARKETING INNOVATION
-Primary archetype:
-- GenAI Marketing Transformation Leader
-
-Secondary support:
-- GTM Operations & Program Governance Leader
+- GTM Operations & Governance
+- Head of Digital Marketing
 
 Priority tags:
 - AI_TRANSFORMATION
 - GENAI
 - AUTOMATION
-- OPERATIONS
-- EXECUTIVE
+- WORKFLOW
+- N8N
+
+## HEAD OF PERFORMANCE MARKETING
+Primary archetype:
+- Head of Performance Marketing
+
+Secondary support:
+- Paid Media Director
+- VP Growth Marketing
+
+Priority tags:
+- PERFORMANCE_MARKETING
+- CAC
+- CPA
+- CONVERSION
+- ATTRIBUTION
+
+## HEAD OF DIGITAL MARKETING
+Primary archetype:
+- Head of Digital Marketing
+
+Secondary support:
+- Head of Performance Marketing
+- AI Transformation Leader
+
+Priority tags:
+- DIGITAL_MARKETING
+- ELOQUA
+- MARKETO
+- WEBSITE
+- ANALYTICS
+
+## HEAD OF MARKETING / REGIONAL DIRECTOR
+Primary archetype:
+- Head of Marketing
+
+Secondary support:
+- GTM Operations & Governance
+- VP Demand Generation
+
+Priority tags:
+- EXECUTIVE_LEADERSHIP
+- FIELD_MARKETING
+- EVENT_MARKETING
+- REGIONAL
+- SALES_ALIGNMENT
+
+## HEAD OF BRAND MARKETING
+Primary archetype:
+- Head of Brand Marketing
+
+Secondary support:
+- VP Growth Marketing
+- Paid Media Director
+
+Priority tags:
+- BRAND
+- THOUGHT_LEADERSHIP
+- REACH
+- VIDEO_STRATEGY
+- SOCIAL_GROWTH

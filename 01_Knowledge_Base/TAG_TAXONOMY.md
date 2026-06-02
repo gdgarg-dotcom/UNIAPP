@@ -12,6 +12,9 @@ This file defines the controlled vocabulary for tagging all library files used b
 - REVENUE_MARKETING
 - EXECUTIVE_LEADERSHIP
 - PROJECT_MANAGEMENT
+- DIGITAL_MARKETING
+- FIELD_MARKETING
+- BRAND_MARKETING
 
 ## BUSINESS IMPACT TAGS
 - PIPELINE
@@ -24,15 +27,19 @@ This file defines the controlled vocabulary for tagging all library files used b
 - EFFICIENCY
 - GROWTH
 - BRAND
+- REACH
 
 ## MARKET / CONTEXT TAGS
 - APAC
+- APJC
 - EMEA
 - GLOBAL
 - ENTERPRISE
 - B2B
 - SAAS
 - REGIONAL
+- INDIA
+- AMERICAS
 
 ## LEADERSHIP TAGS
 - EXECUTIVE
@@ -41,6 +48,7 @@ This file defines the controlled vocabulary for tagging all library files used b
 - GOVERNANCE
 - STAKEHOLDER_MANAGEMENT
 - SALES_ALIGNMENT
+- PROGRAM_MANAGEMENT
 
 ## TOOL TAGS
 - SALESFORCE
@@ -54,7 +62,13 @@ This file defines the controlled vocabulary for tagging all library files used b
 - DIFY
 - RETELL
 - GPT
-- CLOUDE
+- CLAUDE
 - TABLEAU
 - LOOKER_STUDIO
 - DOMO
+- POWER_BI
+- GOOGLE_ADS
+- LINKEDIN_ADS
+- DV360
+- META_ADS
+- YOUTUBE_ADS
