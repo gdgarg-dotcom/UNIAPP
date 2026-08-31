@@ -2,7 +2,7 @@
 
 # Purpose
 
-The Writing Style Guide defines how UniApp writes resumes, cover letters, LinkedIn profiles, and other career documents.
+The Writing Style Guide defines how UniApp writes resumes and cover letters.
 
 It establishes consistent writing standards, formatting rules, document structure, readability, and presentation. It does not define positioning strategy, ATS vocabulary, or runtime workflow.
 
@@ -19,24 +19,7 @@ It establishes consistent writing standards, formatting rules, document structur
 - Prefer bullets over paragraphs.
 - Avoid unnecessary adjectives, buzzwords, and marketing fluff.
 - Maintain consistent formatting throughout the document.
-
----
-
-# Resume Quality Standards
-
-Every resume produced by UniApp should be:
-
-• Executive
-• Business-first
-• Recruiter-friendly
-• ATS-friendly
-• Evidence-based
-• Factually accurate
-• Role-specific
-• Concise
-• Easy to scan
-• Easy to customize
-• Limited to two pages
+- Role-specific, easy to scan, easy to customize, limited to two pages.
 
 ---
 
@@ -53,79 +36,72 @@ Every resume produced by UniApp should be:
 
 ## Resume Section Order
 
-1. Name & Contact Information
-2. Executive Headline
-3. Executive Summary
-4. Core Expertise
-5. Executive Highlights
-6. Leadership Experience / Professional Experience
-7. Selected Projects (when relevant)
-8. Certifications
-9. Technical Skills (if applicable)
+1. Name & Title & "Open to..." line & Contact Information
+2. Career Summary
+3. Core Skills
+4. Career Highlights
+5. Leadership Experience
+6. Projects (when relevant)
+7. Earlier Experience
+8. Technology Proficiency
+9. Certifications
 10. Education
 
-Education should always appear near the end of the resume.
+Note: Section names above are the current house style and intentionally differ from generic resume-writing convention (e.g. "Career Summary" not "Executive Summary", "Core Skills" not "Core Expertise", "Career Highlights" not "Executive Highlights", "Technology Proficiency" not "Technical Skills"). Use these exact headings — do not default to more generic/templated naming.
+
+Projects always precedes Earlier Experience — Projects stems directly from the two most recent roles (Leadership Experience), so it stays adjacent to them; Earlier Experience is the deliberately deprioritized section and sits after.
+
+Education and Certifications always sit at the end, in that order (Certifications before Education).
 
 ---
 
 ## Contact Information
 
-Display at the top of the resume.
+Display at the top of the resume, centered, in this order:
 
-Include:
-
-- Full Name
-- Phone Number
-- Email Address
-- Current Location
-- LinkedIn Profile
-- GitHub Profile (when relevant)
+1. Name (bold, navy, largest text on the page)
+2. Title/headline line
+3. "Open to Relocation | Open to Remote Opportunities" (or GCC-suffixed variant for UAE resumes) — on its own line, bold, above contact details, for visual impact
+4. Contact line: Phone | Email | LinkedIn — no city/location, no GitHub (unless the target role is technical/developer-adjacent)
 
 ---
 
-## Executive Headline
+## Career Summary
 
-- Maximum 120 characters.
-- Tailor to the target role.
-- Keep concise and keyword-rich.
-- Do not exaggerate seniority.
-
----
-
-## Executive Summary
-
-- Maximum 5 lines.
-- Approximately 450–650 characters.
-- Business-first.
-- Tailored to the target role.
-- Highlight strongest positioning themes only.
+- One consolidated paragraph (not two).
+- Business-first, tailored to the target role.
+- Bold the key positioning keywords and terms within the paragraph (skills, credentials, numbers) for visual scanning impact — do not bold entire sentences.
+- Keep simple and short for impact — avoid stacking multiple qualifying clauses (e.g. do not combine "20 years total" with "15 years dedicated" in the same sentence unless the specific sub-tenure is core to that resume's positioning, as it is for Digital and Paid Media).
 - Avoid generic objectives or personal statements.
+- For India resumes: no explicit non-India market list (drop APAC/EMEA/Americas mentions from this section).
+- For UAE resumes: mention GCC once; drop the full APAC/EMEA/Americas list in favor of "GCC and global markets."
 
 ---
 
-## Core Expertise
+## Core Skills
 
 - Use pipe-separated format only.
 - Never use bullets.
 - Prioritize capabilities based on JD relevance.
 - Keep between 12–16 capabilities.
+- Draw from digital-first, growth, demand-gen, brand, integrated marketing, paid media, performance, and leadership terms.
 
 Example:
 
-Growth Marketing | Demand Generation | GTM Strategy | Digital Marketing | Paid Media | Marketing Operations | AI
+Growth Marketing | Demand Generation | GTM Strategy | Digital Marketing | Paid Media | Marketing Analytics | AI
 
 ---
 
-## Executive Highlights
+## Career Highlights
 
 Use the heading:
 
-EXECUTIVE HIGHLIGHTS
+CAREER HIGHLIGHTS
 
-- 6–8 concise bullets.
+- 6–7 concise bullets.
+- Every bullet must carry a quantified metric — no unquantified statements.
 - Lead with measurable business impact.
 - Prioritize achievements most relevant to the target role.
-- Use metrics wherever supported.
 
 ---
 
@@ -135,31 +111,23 @@ Use the heading:
 
 LEADERSHIP EXPERIENCE
 
-For senior-level roles.
-
-For mid-level roles use:
-
-PROFESSIONAL EXPERIENCE
+Used for both companies (Keysight Technologies Ltd, Cisco Systems Ltd) regardless of seniority level — this is the current house style, not conditional on role seniority.
 
 ### Bullet Guidelines
 
-Keysight Technologies
+Keysight Technologies Ltd
 
-- 5–7 bullets.
+- 6 bullets.
 
-Cisco Systems
+Cisco Systems Ltd
 
-- 5–7 bullets.
-
-Earlier Roles
-
-- 2 concise bullets per role unless additional detail is required for the target role.
+- 7–8 bullets. (Cisco carries more evidence given its longer tenure — team leadership, partner marketing, and executive engagement facts typically land here.)
 
 Each bullet should ideally follow:
 
 Action → Business Impact → Metric
 
-Avoid long narrative bullets.
+Avoid long narrative bullets. When a bullet must combine two related facts (e.g. team size + a program name), keep it to one sentence with a semicolon, not a run-on paragraph.
 
 ---
 
@@ -167,19 +135,34 @@ Avoid long narrative bullets.
 
 Include only when relevant to the target role.
 
-- 3–6 projects.
+- 3–4 projects.
+- Every project must carry a quantified metric and outcome — do not fabricate one if no verified figure exists; note it as pending instead and flag it to the user.
 - Objective-focused.
 - Keep each project concise.
-- Include measurable outcomes where supported.
 - Prioritize projects aligned with the JD.
 
 ---
 
-## Technical Skills
+## Earlier Experience
 
-Include only technologies relevant to the target role.
+Use the heading:
 
-Avoid long technology inventories.
+EARLIER EXPERIENCE
+
+Always positioned after Projects, not immediately after Leadership Experience — Projects stays adjacent to the recent roles it stems from; Earlier Experience is the deliberately deprioritized section.
+
+- 2 concise bullets per role (Network18 Media Ltd, Bennett Coleman & Co Ltd).
+- Metrics may be included where real, verified figures exist (see CAREER_PROFILE.MD) — this section is deprioritized in emphasis, not stripped of evidence.
+
+---
+
+## Technology Proficiency
+
+Include by default on every resume, organized into labeled sub-rows (e.g. "Paid & Programmatic:", "CRM & Marketing Automation:") — not a flat unlabeled list.
+
+Lead with the row most relevant to the resume's positioning (e.g. Paid Media resumes lead with "Paid & Programmatic"; Demand Generation leads with "Marketing Automation & CRM" and "ABM & Intent Data").
+
+Include only technologies relevant to the target role. Avoid long, undifferentiated technology inventories — group by category instead.
 
 ---
 
@@ -203,21 +186,21 @@ Keep concise.
 
 | Section | Recommended Maximum |
 |----------|--------------------:|
-| Executive Headline | 120 characters |
-| Executive Summary | 650 characters |
-| Core Expertise | 300 characters |
-| Executive Highlights | 900 characters |
-| Current Role (each) | 1,200 characters |
-| Previous Leadership Role (each) | 1,000 characters |
-| Earlier Roles (combined) | 900 characters |
-| Projects Section | 1,000 characters |
-| Technical Skills | 350 characters |
+| Title/Headline | 130 characters (may wrap to 2 lines; single line preferred where it fits) |
+| Career Summary | 550 characters (one consolidated paragraph) |
+| Core Skills | 300 characters |
+| Career Highlights | 900 characters |
+| Leadership Experience — Keysight (6 bullets) | 900 characters |
+| Leadership Experience — Cisco (7–8 bullets) | 1,300 characters |
+| Projects (3–4 entries) | 700 characters |
+| Earlier Experience (both roles combined) | 500 characters |
+| Technology Proficiency | 400 characters |
 | Certifications | 250 characters |
-| Education | 250 characters |
+| Education | 150 characters |
 
 Target total resume size:
 
-Approximately 5,500–7,000 characters to comfortably fit within two pages.
+Approximately 5,500–7,500 characters to comfortably fit within two pages. Page count (verified via PDF conversion) is the actual hard constraint — this character range is a planning heuristic, not a strict cap. Current resumes typically run 5,900–6,700 characters.
 
 ---
 
@@ -229,16 +212,6 @@ Approximately 5,500–7,000 characters to comfortably fit within two pages.
 - Focus on business value and role alignment.
 - Avoid storytelling and generic enthusiasm.
 - Mention relocation or remote preference only when applicable.
-
----
-
-# LinkedIn Standards
-
-- Maintain consistency with the resume.
-- Expand professional narrative without contradicting the resume.
-- Preserve factual integrity.
-- Prioritize recruiter readability.
-- Keep keywords naturally integrated.
 
 ---
 
@@ -257,29 +230,33 @@ Approximately 5,500–7,000 characters to comfortably fit within two pages.
 
 Before finalizing any resume:
 
-□ Resume limited to two pages.
+□ Resume verified at exactly 2 pages via PDF conversion (not estimated from character count).
 
-□ Correct section order.
+□ Correct section order: Career Summary → Core Skills → Career Highlights → Leadership Experience → Projects → Earlier Experience → Technology Proficiency → Certifications → Education.
 
-□ Contact information complete.
+□ "Open to..." line present on its own line, above contact details.
 
-□ Executive Summary within limit.
+□ Contact line has no city and no GitHub (unless technical role).
 
-□ Core Expertise uses pipe-separated format.
+□ Career Summary is one consolidated paragraph with bolded keywords.
 
-□ Executive Highlights included.
+□ Core Skills uses pipe-separated format, 12–16 items.
 
-□ Correct experience heading selected.
+□ Every Career Highlights bullet carries a quantified metric.
 
-□ Experience bullets follow writing standards.
+□ Leadership Experience uses correct company names ("Ltd" on Keysight Technologies and Cisco Systems) and correct current job titles.
 
-□ Projects included only when relevant.
+□ Every Project carries a quantified metric — or is explicitly flagged as pending, never fabricated.
 
-□ Metrics included wherever supported.
+□ Earlier Experience uses correct company names (Network18 Media Ltd, Bennett Coleman & Co Ltd) and sits after Projects.
 
-□ Technologies relevant to the JD.
+□ Technology Proficiency organized into labeled sub-rows, most-relevant row first.
 
-□ Education placed at the bottom.
+□ Certifications placed before Education.
+
+□ For India resumes: no explicit non-India market list in Career Summary or bullets.
+
+□ For UAE resumes: GCC mentioned once; region lists simplified to "GCC and global markets."
 
 □ ATS keywords naturally integrated.
 

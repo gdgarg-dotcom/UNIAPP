@@ -25,37 +25,37 @@ The Resume Intelligence Framework is responsible for:
 
 # Knowledge Base Ownership
 
-### CAREER_KNOWLEDGE_BASE.md
+### CAREER_PROFILE.MD
 
 Owns factual career information.
 
 ---
 
-### POSITIONING_SYSTEM.md
+### POSITIONING_GUIDE.md
 
 Owns positioning strategy.
 
 ---
 
-### ATS_LIBRARY.md
+### ATS_LIBRARY.MD
 
 Owns ATS and recruiter vocabulary.
 
 ---
 
-### RESUME_WRITING_GUIDE.md
+### WRITING_GUIDE.md
 
 Owns writing standards.
 
 ---
 
-### SYSTEM_INSTRUCTIONS_v3.md
+### UNIAPP_PROMPT (main system prompt)
 
 Owns runtime execution and workflow orchestration.
 
 ---
 
-### RESUME_INTELLIGENCE_FRAMEWORK.md
+### UNIAPP_INTELLIGENCE.MD (this file)
 
 Owns resume intelligence, adaptive customization, validation, and quality assurance.
 
@@ -117,39 +117,24 @@ For every Job Description, identify:
 
 ## Job Title
 
-Tailor the Executive Headline and Executive Summary to the advertised role while preserving factual accuracy.
+Tailor the Title/Headline and Career Summary to the advertised role while preserving factual accuracy.
 
 ---
 
 ## Location
 
-If the advertised location differs from the candidate's current location:
+Current practice does not dynamically insert the advertised location into the resume. Instead, two fixed regional masters are maintained:
 
-Resume:
+- **India resumes:** "Open to Relocation | Open to Remote Opportunities" — no city, no dynamic location text. Career Summary and role bullets exclude explicit non-India market mentions (drop APAC/EMEA/Americas from narrative text; quantified scope facts like "14+ APJC markets" may remain).
+- **UAE/GCC resumes:** "Open to Relocation – GCC | Open to Remote Opportunities – GCC" — GCC mentioned once in the Career Summary; region lists in bullets simplified to "GCC and global markets."
 
-Open to Relocation – <Location>
-
----
-
-## Remote
-
-If the role is remote:
-
-Resume:
-
-Open to Remote Opportunities
-
-Highlight experience working across distributed global teams where supported.
+If a JD's location doesn't match either master (e.g. a role in Singapore or Europe), select the closer-fit master (India or UAE) and flag the mismatch to the user rather than inventing a third region variant.
 
 ---
 
-## Hybrid
+## Remote / Hybrid
 
-If the role is hybrid:
-
-Resume:
-
-Open to Hybrid Opportunities
+Both relocation and remote availability are always stated together on the same line — never conditionally shown based on whether the JD is remote, onsite, or hybrid. There is no separate "Open to Hybrid Opportunities" variant in current practice; if a JD is explicitly hybrid, this can be noted in the cover letter instead of altering the resume headline.
 
 ---
 
@@ -169,9 +154,9 @@ Instead:
 
 Prioritize them in:
 
-- Executive Summary
-- Core Expertise
-- Executive Highlights
+- Career Summary
+- Core Skills
+- Career Highlights
 - Experience
 - Projects
 
@@ -193,9 +178,7 @@ Include projects only when they strengthen the application.
 
 ## AI
 
-If AI capabilities are emphasized in the JD:
-
-Increase visibility of AI initiatives, AI projects, AI tools, and AI-enabled business outcomes.
+If AI capabilities are emphasized in the JD, AI-related bullets and tools may be given slightly more visibility within their existing supporting role — but AI must never become the primary positioning or be elevated into a standalone specialization. Candidate does not position as an AI marketing specialist and does not pursue AI-focused roles, regardless of how strongly a JD emphasizes AI. If a JD is primarily an AI-specialist role, flag this to the user as a poor-fit application rather than rebuilding the resume around AI.
 
 ---
 
@@ -217,17 +200,11 @@ Increase visibility of:
 
 Every generated resume should satisfy the following:
 
-- Correct positioning selected.
+- Correct positioning selected, per POSITIONING_GUIDE.md.
 - Resume tailored to the JD.
-- Resume limited to two pages.
-- Executive Summary within writing guide limits.
-- Core Expertise aligned to JD.
-- Executive Highlights prioritized correctly.
-- Correct experience heading selected.
-- Projects included only when relevant.
-- Education positioned last.
-- ATS keywords naturally integrated.
-- Metrics supported by evidence.
+- All facts — company names, job titles, dates, metrics — match CAREER_PROFILE.MD exactly.
+- Formatting, section order, and per-section rules verified against WRITING_GUIDE.md's Quality Checklist.
+- ATS keywords naturally integrated, per ATS_LIBRARY.MD.
 - No unsupported claims.
 - Resume and cover letter aligned.
 
@@ -241,9 +218,9 @@ Evaluate every generated resume.
 |----------|------:|
 | JD Understanding | /10 |
 | Positioning Accuracy | /10 |
-| Executive Summary | /5 |
-| Core Expertise Alignment | /5 |
-| Executive Highlights | /10 |
+| Career Summary | /5 |
+| Core Skills Alignment | /5 |
+| Career Highlights | /10 |
 | Experience Relevance | /15 |
 | Project Relevance | /5 |
 | Business Impact | /10 |
@@ -261,39 +238,15 @@ Total Score:
 
 ---
 
-# Resume QA Report
+# Resume Delivery Format
 
-Display after every resume build or optimization.
-
-Resume Score
-
-Overall Score: XX / 100
-
-Strengths
-
-- …
-
-Opportunities
-
-- …
-
-Recommendations
-
-- …
-
-Status
-
-Ready for Submission
-
-or
-
-Further Optimization Recommended
+Deliver the final ATS Match Score in one line alongside the files — no Strengths/Opportunities/Recommendations breakdown, no Status label. Example: "ATS Match Score: 87/100." A full scored breakdown (per the QA Scorecard above) is available only if the user asks for it.
 
 ---
 
 # Optimization Principles
 
-Optimize only when improvements are supported by evidence.
+Optimize only when improvements are supported by evidence. Never optimize toward a target ATS score by fabricating content — a true, lower score is always correct over an inflated, false one.
 
 Never optimize by:
 
@@ -313,6 +266,18 @@ Optimization should improve:
 - Business impact
 
 while preserving factual integrity.
+
+---
+
+# Current Resume Matrix (Reference)
+
+The Discover stage should match JDs against these 7 existing masters rather than building from scratch:
+
+**India:** Digital Marketing, Marketing (incl. Brand, Integrated Marketing), Demand Generation (incl. ABM, Growth Marketing), Performance Marketing, Paid Media
+
+**UAE:** Digital Marketing, Marketing (incl. Brand, Integrated Marketing)
+
+See POSITIONING_GUIDE.md for archetype-to-master mapping and consolidation notes.
 
 ---
 

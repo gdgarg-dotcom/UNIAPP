@@ -1,3 +1,7 @@
+# GOVERNANCE NOTE
+
+Terms in this library — including ATL, BTL, Email, Webinars, Content Syndication, Mobile, and Ecommerce — are valid ATS/recruiter vocabulary for use across resume sections, including Core Skills, Career Highlights, Projects, and Experience bullets, where supported by evidence in CAREER_PROFILE.MD.
+
 # MARKETING LEADERSHIP
 
 ## Core Terms
@@ -12,7 +16,6 @@ Marketing Transformation
 Business Transformation
 Digital Transformation
 Marketing Governance
-Marketing Operations
 Marketing Excellence
 Marketing Effectiveness
 Marketing Productivity
@@ -39,6 +42,9 @@ Regional Marketing
 Field Marketing
 Channel Marketing
 Partner Marketing
+Joint GTM
+Co-marketing
+Distribution Partnerships
 Sales Enablement
 Sales Alignment
 Campaign Governance
@@ -132,6 +138,7 @@ Customer Acquisition
 
 Demandbase
 6sense
+Bombora
 Salesforce CRM
 Marketo
 Oracle Eloqua
@@ -181,7 +188,6 @@ Thought Leadership
 Creative Strategy
 Campaign Messaging
 Market Positioning
-Marketing Communications
 Content Marketing
 Content Strategy
 Content Development
@@ -260,6 +266,8 @@ Lead Qualification
 Lead Nurturing
 Lead Scoring
 Lead Routing
+Google Lead-Gen Ads
+Document Ads
 Revenue Marketing
 Revenue Operations
 Pipeline Generation
@@ -311,7 +319,7 @@ Salesforce CRM
 HubSpot
 Marketo Engage
 Oracle Eloqua
-Mailchimp
+Salesforce Marketing Cloud(SFMC)
 
 ## Methods \& Practices
 
@@ -400,6 +408,8 @@ Cisco WEM
 On-page SEO
 Content SEO
 Keyword Planning
+Ecommerce Marketing
+B2B Ecommerce
 
 ## Platforms \& Technologies
 
@@ -490,6 +500,9 @@ Audience Insights
 Customer Insights
 Experience Optimization
 Customer-centric Marketing
+Freemium Acquisition
+Freemium-to-Paid Conversion
+Marketplace Acquisition
 
 ## Platforms \& Technologies
 
@@ -498,7 +511,6 @@ Salesforce CRM
 HubSpot
 Marketo Engage
 Oracle Eloqua
-Power BI
 Tableau
 Domo
 
@@ -560,6 +572,9 @@ Contextual Targeting
 Geo-targeting
 Remarketing
 Retargeting
+Click-to-Call Ads
+Lead-Gen Ads
+Event Lead Generation
 Campaign Planning
 Campaign Optimization
 Media Budget Management
@@ -664,7 +679,6 @@ Campaign Manager 360
 Google Analytics 4 (GA4)
 Adobe Analytics
 Tableau
-Power BI
 Domo
 Looker Studio
 
@@ -795,4 +809,13 @@ Automation Efficiency
 Content Production Efficiency
 Campaign Execution Efficiency
 Marketing Productivity
+
+# CERTIFICATIONS
+
+## Core Terms
+
+Google Marketing Platform Certified
+AI Applications for Business Leaders
+Professional Certification
+Continuous Learning
 

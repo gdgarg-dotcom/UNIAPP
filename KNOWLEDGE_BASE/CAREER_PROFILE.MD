@@ -8,30 +8,33 @@ This document is the single source of truth for all career-related factual infor
 Design Principles:
 - Every business fact exists only once.
 - Every section has a single responsibility.
-- Positioning guidance resides in POSITIONING_SYSTEM.md.
-- ATS keywords reside in KEYWORD_LIBRARY.md.
-- Technology catalog resides in TOOL_LIBRARY.md.
+- Positioning guidance resides in POSITIONING_GUIDE.md.
+- ATS keywords reside in ATS_LIBRARY.MD.
+- Technology catalog resides in Section 6 of this file.
 - Downstream assets reference this document rather than duplicate it.
 
 ---
 
-# 1. EXECUTIVE IDENTITY
+# 1. CAREER SUMMARY
 
 ## Professional Positioning
 
-Enterprise AI-Driven Marketing & Growth Leader with 20 years of experience leading Digital Marketing, Growth Marketing, Demand Generation, Integrated Marketing, GTM, Brand Marketing, Performance Marketing, Marketing Operations, and AI-enabled Marketing Transformation across enterprise technology organizations.
+Marketing leader with 20 years of experience across Digital Marketing, Growth Marketing, Demand Generation, Integrated Marketing, GTM, Brand Marketing, Performance Marketing, Paid Media, and AI-enabled Marketing Transformation, for B2B SaaS and technology organizations.
 
-Recognized for building scalable demand engines, strengthening brand visibility, modernizing marketing operations, improving customer acquisition, and aligning marketing investments with measurable pipeline, revenue, and business outcomes across APJC, EMEA, India, and the Americas.
+Built scalable demand engines, strengthened brand visibility, improved customer acquisition, and aligned marketing investment with measurable pipeline, revenue, and business outcomes across India, APJC, and GCC markets.
+
+Positioning term: B2B SaaS (not Enterprise Technology).
 
 ---
 
 ## Executive Value Proposition
 
-- Enterprise Marketing Leadership
-- Growth Marketing & Demand Generation
+- Marketing Leadership
+- Growth Marketing & Demand Generation (incl. ABM)
 - Brand & Integrated Marketing
 - Digital & Performance Marketing
-- GTM Strategy & Marketing Operations
+- Paid Media & Programmatic
+- GTM Strategy
 - Customer Acquisition & Lifecycle Marketing
 - AI-enabled Marketing Transformation
 - Marketing Analytics & Attribution
@@ -42,11 +45,9 @@ Recognized for building scalable demand engines, strengthening brand visibility,
 
 ## Career Profile
 
-Executive marketing leader with a proven track record of integrating brand strategy, demand generation, digital marketing, GTM execution, marketing operations, analytics, and AI-enabled transformation into measurable business outcomes.
+Track record spans multi-million-dollar marketing investments, cross-functional leadership, agency and channel-partner governance, and AI-powered operational modernization across B2B SaaS and technology organizations.
 
-Experience spans enterprise technology organizations, regional and global marketing operations, multi-million-dollar marketing investments, cross-functional leadership, agency governance, customer engagement, and AI-powered operational modernization.
-
-Combines strategic leadership with hands-on execution across paid media, marketing automation, website management, social media, customer communications, content operations, analytics, and marketing technology ecosystems.
+Hands-on execution across paid media, marketing automation, website management, social media, content, analytics, and marketing technology.
 
 ---
 
@@ -56,41 +57,39 @@ Combines strategic leadership with hands-on execution across paid media, marketi
 
 - Head of Marketing
 - Head of Digital Marketing
-- Growth Marketing Leader
-- Demand Generation Leader
-- Integrated Marketing Leader
-- Performance Marketing Leader
-- Marketing Operations Leader
-- AI Marketing Transformation Leader
 
 ### Secondary
 
+- Growth Marketing Leader
+- Demand Generation Leader (incl. ABM)
+- Integrated Marketing Leader
+- Performance Marketing Leader
+- Paid Media Leader
 - Regional Marketing Director
-- Marketing Communications Leader
 - GTM Marketing Leader
 - Revenue Marketing Leader
-- Enterprise Marketing Director
 - Customer Acquisition Leader
 
 ---
 
 ## Geographic Experience
 
-Regions
+Regions (active application markets)
 
-- APJC
-- APAC
 - India
+- APJC (broader region context within India-positioned resumes)
+- GCC / UAE (relocation target)
+
+Regions (factual career scope, deprioritized in current resume positioning)
+
 - EMEA
 - Americas
 
 Markets
 
-- Enterprise Technology
 - B2B SaaS
-- Global Marketing
+- Technology
 - Regional Marketing
-- Multi-country Marketing Operations
 
 ---
 
@@ -98,10 +97,11 @@ Markets
 
 Marketing Leadership
 
-- Enterprise Marketing Strategy
+- Marketing Strategy
 - Cross-functional Leadership
 - Stakeholder Management
 - Agency Leadership
+- Channel & Distribution Partner Leadership
 - Team Leadership
 - Executive Communications
 
@@ -116,7 +116,6 @@ Commercial Leadership
 
 Operational Leadership
 
-- Marketing Operations
 - Marketing Automation
 - Campaign Governance
 - Budget Governance
@@ -131,35 +130,68 @@ Transformation Leadership
 - Digital Transformation
 - Analytics Modernization
 
-# 2. CAREER PORTFOLIO
+## Career Portfolio (Chronology)
 
 Purpose:
 Provide chronological career progression while preserving factual ownership.
 
 Rules:
 - Describe scope, ownership, and responsibilities.
-- Do not repeat quantified business outcomes already captured in the Business Impact Repository.
+- Do not repeat quantified business outcomes already captured in Career Highlights.
 - Reference capabilities, not achievements.
 - Keep each role concise and evidence-oriented.
 
 ---
 
-## Keysight Technologies
+## CIVICA UK Ltd
 
-### Marketing Manager – Global Growth, Strategy & GTM Operations
+### GLOBAL ABM (AMERICAS, EUROPE & APJC) & MARKETING AUTOMATION
 
 **Period**
-Jul 2024 – Present
+
+Aug 2026 – Present
 
 **Business Scope**
-Enterprise technology marketing across APJC, EMEA, India, and the Americas supporting growth marketing, demand generation, GTM execution, digital marketing, ABM, marketing operations, and AI-enabled transformation.
+
+Marketing automation and global ABM strategy across Americas, Europe, and APJC, with focused scaling across North America and APAC.
+
+**Primary Responsibilities**
+
+- Drive marketing automation via Salesforce Marketing Cloud.
+- Lead Demandbase adoption and ABM strategy.
+- Own programmatic and display advertising.
+- Align paid media and pipeline strategy with Sales sprint motions.
+- Manage a 2-member team and agency partners.
+
+**Primary Capabilities**
+
+- Marketing Automation (SFMC)
+- Demandbase (ABM)
+- Global Digital Strategy (Paid Media, Social Media, Email, Events)
+- Team Leadership
+- Cross-functional Distributed Work
+
+---
+
+## Keysight Technologies Ltd
+
+### GLOBAL DIGITAL MARKETING (AMERICAS, EUROPE & APJC)
+
+**Period**
+
+Jul 2024 – Mar 2026
+
+**Business Scope**
+
+Marketing across India, the broader APJC region, EMEA, and the Americas supporting growth marketing, demand generation, GTM execution, digital marketing, ABM, and AI-enabled transformation.
 
 **Primary Responsibilities**
 
 - Lead enterprise growth marketing and integrated GTM programs.
 - Own global digital acquisition and paid media strategy.
+- Standardize global marketing strategy across the Americas, Europe, and APJC.
 - Drive demand generation and pipeline acceleration initiatives.
-- Manage ABM programs using intent-driven marketing.
+- Manage ABM programs using intent-driven marketing across 1:1, 1:Few, and 1:Many account tiers.
 - Lead marketing automation, analytics, attribution, and reporting.
 - Partner with Sales, Regional Marketing, Product Marketing, and Operations.
 - Drive AI adoption across marketing workflows and operational processes.
@@ -173,17 +205,18 @@ Enterprise technology marketing across APJC, EMEA, India, and the Americas suppo
 - GTM Strategy
 - Digital Marketing
 - Performance Marketing
-- Marketing Operations
 - AI-enabled Marketing
 - Marketing Analytics
 - ABM
 - Executive Stakeholder Management
+- AEO (Answer Engine Optimization)
+- GEO (Generative Engine Optimization)
 
 ---
 
-## Cisco Systems
+## Cisco Systems Ltd
 
-### Digital Marketing Lead – Strategy, Growth & APJC Programs
+### REGIONAL DIGITAL MARKETING (APJC)
 
 **Period**
 
@@ -191,11 +224,11 @@ Feb 2011 – Apr 2024
 
 **Business Scope**
 
-Led enterprise digital marketing, demand generation, GTM execution, regional marketing, performance marketing, customer acquisition, website management, social media, marketing automation, analytics, and integrated communications across APJC.
+Began leading digital marketing in India, growing into regional strategy ownership across APJC — spanning demand generation, GTM execution, regional marketing, performance marketing, customer acquisition, website management, social media, marketing automation, analytics, and integrated communications.
 
 **Primary Responsibilities**
 
-- Led digital marketing strategy across APJC markets.
+- Led digital marketing strategy across 14+ APJC markets.
 - Managed enterprise paid media and acquisition programs.
 - Owned media planning, buying, optimization, and governance.
 - Led integrated marketing campaigns supporting corporate and product brands.
@@ -206,9 +239,10 @@ Led enterprise digital marketing, demand generation, GTM execution, regional mar
 - Led lifecycle marketing, nurture journeys, and segmentation.
 - Directed executive engagement programs and regional events.
 - Managed agencies across media, analytics, and campaign execution.
+- Led joint GTM and co-marketing programs with strategic distribution and channel partners, including Redington, Compuage, and Ingram Micro.
 - Led marketing measurement, attribution, and executive dashboards.
 - Partnered with Product Marketing, Sales, Channels, HR, and regional leadership.
-- Led cross-functional marketing teams and agency partners.
+- Led and developed a team of 5 marketing professionals, plus cross-functional marketing teams and agency partners.
 
 **Primary Capabilities**
 
@@ -225,13 +259,18 @@ Led enterprise digital marketing, demand generation, GTM execution, regional mar
 - Events & Field Marketing
 - Marketing Analytics
 - Agency Leadership
+- Channel & Distribution Partner Marketing
 - GTM Operations
 
 ---
 
-## Network18
+## Network18 Media Ltd
 
-### Integrated Marketing & Media Manager
+### INTEGRATED MARKETING
+
+**Period**
+
+2009 – 2011
 
 **Business Scope**
 
@@ -245,11 +284,20 @@ Supported integrated marketing, media planning, audience growth, campaign execut
 - Audience Growth
 - Consumer Marketing
 
+**Notable Achievements**
+
+- Executed integrated Display, Print, TV, and Event campaigns reaching 20M consumers.
+- Delivered a 15% increase in conversions supporting digital adoption initiatives.
+
 ---
 
-## Times Group
+## Bennett Coleman & Co Ltd (Times of India)
 
-### Marketing & Campaign Management
+### MEDIA MARKETING & ADVERTISEMENTS
+
+**Period**
+
+2003 – 2008
 
 **Business Scope**
 
@@ -257,14 +305,135 @@ Supported multi-channel marketing, campaign execution, media coordination, and c
 
 **Primary Capabilities**
 
-- Marketing Communications
 - Campaign Management
 - Media Coordination
 - Customer Engagement
 
+**Notable Achievements**
+
+- Expanded advertiser reach by 30% through cross-media campaign management across Print, Radio, Outdoor, TV, Digital, and Events.
+- Improved campaign efficiency by 20%.
+
+# 2. CORE SKILLS
+
+Purpose:
+Canonical repository of marketing capabilities. Full context (scope narrative, named projects, quantified outcomes) lives in Career Highlights and Projects — this section owns capability tagging only.
+
+Rules:
+- One capability appears only once.
+- No repeated business metrics or project detail.
+
 ---
 
-# 3. BUSINESS IMPACT REPOSITORY
+## Brand Marketing
+
+Role Fit: Integrated Marketing, Head of Marketing
+
+Capability Tags: Brand Strategy, Brand Positioning, Integrated Marketing, Campaign Management, Product Marketing, Employer Branding
+
+Supporting Experience: Cisco Systems Ltd, Network18 Media Ltd
+
+---
+
+## Growth & Demand Generation
+
+Role Fit: Demand Generation, Growth Marketing, Revenue Marketing
+
+Capability Tags: Demand Generation, Growth Marketing, Pipeline Growth, Lead Generation, ABM (1:1, 1:Few, 1:Many tiering), Funnel Optimization, Lifecycle Marketing, Sales Alignment
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Paid Media
+
+Role Fit: Paid Media, Performance Marketing, Digital Marketing
+
+Capability Tags: Media Planning, Media Buying, Programmatic Advertising, Audience Targeting, Remarketing & Retargeting, Media Attribution, Agency Management (Mindshare, GroupM, Dentsu, Publicis, Omnicom, Neo)
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Digital & Performance Marketing
+
+Role Fit: Digital Marketing, Performance Marketing
+
+Capability Tags: Paid Media, Performance Marketing, Media Planning, Media Buying, Campaign Optimization, Conversion Rate Optimization, Marketing Attribution, Ecommerce, AEO, GEO
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Channel & Partner Marketing
+
+Role Fit: Head of Marketing, Growth Marketing, Demand Generation
+
+Capability Tags: Channel Marketing, Partner Marketing, Distribution Partnerships, Joint GTM, Co-marketing
+
+Supporting Experience: Cisco Systems Ltd (Redington, Compuage, Ingram Micro)
+
+---
+
+## Website & Digital Experience
+
+Role Fit: Head of Digital Marketing
+
+Capability Tags: Website Governance, AEM, Cisco WEM, SEO, Landing Pages
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Social Media
+
+Role Fit: Integrated Marketing, Head of Marketing
+
+Capability Tags: Social Strategy, Editorial Calendar, Community Management, Content Governance
+
+Supporting Experience: Cisco Systems Ltd
+
+---
+
+## Content & Customer Communications
+
+Role Fit: Integrated Marketing, Digital Marketing
+
+Capability Tags: Content Marketing, Editorial Planning, Email Marketing, Lifecycle Marketing, Customer Communications
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Marketing Analytics
+
+Role Fit: Digital Marketing, Performance Marketing
+
+Capability Tags: Analytics, Attribution, Dashboarding, Executive Reporting (GA4)
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## Events & Field Marketing
+
+Role Fit: Head of Marketing, Regional Marketing
+
+Capability Tags: Event Marketing, Executive Engagement, Partner Marketing, Webinars
+
+Supporting Experience: Cisco Systems Ltd, Keysight Technologies Ltd
+
+---
+
+## AI-enabled Marketing
+
+Role Fit: Supporting capability across all marketing roles (not a standalone specialization)
+
+Capability Tags: AI, Workflow Automation, Prompt Engineering, Conversational AI, Voice AI, Productivity
+
+Supporting Experience: Keysight Technologies Ltd
+
+# 3. CAREER HIGHLIGHTS
 
 Purpose:
 Single repository for all measurable business outcomes.
@@ -274,7 +443,9 @@ Rules:
 - Every measurable achievement appears only once.
 - Experience sections reference responsibilities only.
 - Resume generation pulls achievements from this repository.
-- Each business impact is tagged for selective retrieval.
+- Each highlight is tagged for selective retrieval.
+- Every bullet must carry a quantified metric — no unquantified statements.
+- Only quantified, evidence-backed outcomes belong here.
 
 ---
 
@@ -285,6 +456,7 @@ Rules:
 - Growth Marketing
 - Performance Marketing
 - Demand Generation
+- Paid Media
 
 **Capability Tags**
 
@@ -295,10 +467,10 @@ Rules:
 
 **Supporting Experience**
 
-- Cisco Systems
-- Keysight Technologies
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
-**Business Impact**
+**Career Highlights**
 
 - Managed marketing investments of up to $4M annually across Search, Social, Programmatic, Video, Mobile, and Ecommerce.
 - Delivered 15x ROMI through disciplined media governance and optimization.
@@ -324,15 +496,15 @@ Rules:
 
 **Supporting Experience**
 
-- Cisco
-- Keysight
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
-**Business Impact**
+**Career Highlights**
 
 - Increased qualified pipeline by 25%.
 - Built scalable demand engines generating 400+ qualified opportunities annually.
 - Improved lead-to-opportunity conversion by 20%.
-- Increased enterprise account penetration to 40%.
+- Increased enterprise account penetration to 40% within 6 months through ABM programs run across 1:1, 1:Few, and 1:Many account tiers.
 
 ---
 
@@ -349,18 +521,17 @@ Rules:
 - Conversion
 - Website
 - Digital Experience
+- B2B Ecommerce
 
 **Supporting Experience**
 
-- Cisco
-- Keysight
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
-**Business Impact**
+**Career Highlights**
 
-- Increased website traffic by 400%.
-- Expanded digital reach by 325%.
-- Generated USD 120K from B2B SaaS marketplace launch.
-- Acquired 6,000+ marketplace users.
+- Increased website traffic by 400% and expanded digital reach by 325%.
+- Led Webex freemium marketplace acquisition in partnership with Compuage, generating $1M in incremental revenue and 6,000+ new users.
 
 ---
 
@@ -379,13 +550,12 @@ Rules:
 
 **Supporting Experience**
 
-- Cisco
+- Cisco Systems Ltd
 
-**Business Impact**
+**Career Highlights**
 
-- Improved brand recall by 9%.
-- Increased brand consideration by 2.5 points.
-- Executed enterprise corporate and product brand campaigns across APJC.
+- Improved brand recall by 9% and brand consideration by 2.5 points.
+- Executed corporate and product brand campaigns across 14+ APJC markets.
 
 ---
 
@@ -393,8 +563,8 @@ Rules:
 
 **Role Fit**
 
-- Marketing Operations
 - Digital Marketing
+- Performance Marketing
 
 **Capability Tags**
 
@@ -404,13 +574,12 @@ Rules:
 
 **Supporting Experience**
 
-- Cisco
-- Keysight
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
-**Business Impact**
+**Career Highlights**
 
-- Improved attribution visibility by 25%.
-- Standardized executive dashboards across campaign, media, website, email, and pipeline reporting.
+- Improved attribution visibility by 25% through standardized executive dashboards spanning campaign, media, website, and pipeline reporting.
 
 ---
 
@@ -418,8 +587,7 @@ Rules:
 
 **Role Fit**
 
-- AI Marketing
-- Marketing Operations
+- Supporting capability across all marketing roles (not a standalone specialization — candidate does not position as an AI marketing specialist or pursue AI-focused roles)
 
 **Capability Tags**
 
@@ -429,563 +597,87 @@ Rules:
 
 **Supporting Experience**
 
-- Keysight
+- Keysight Technologies Ltd
 
-**Business Impact**
+**Career Highlights**
 
-- Reduced manual effort by over 30 hours per week.
-- Implemented AI-assisted lead qualification and workflow automation.
-- Applied AI to content creation, reporting, personalization, campaign optimization, and SEO validation.
-
-# 4. MARKETING CAPABILITY REPOSITORY
-
-Purpose:
-Canonical repository of marketing capabilities.
-
-Rules:
-- One capability appears only once.
-- No repeated business metrics.
-- Business Impact Repository owns quantitative outcomes.
-- Strategic Project Repository owns initiative details.
-- Discovery Resume owns factual evidence.
+- Reduced manual marketing effort by 30+ hours per week through AI-assisted lead qualification and workflow automation.
+- Applied AI across 5 marketing functions — content creation, reporting, personalization, campaign optimization, and SEO validation.
 
 ---
 
-## Brand Marketing
+## Social Media Growth
 
-Role Fit
+**Role Fit**
 
-- Head of Brand Marketing
 - Integrated Marketing
 - Head of Marketing
 
-Capability Tags
+**Capability Tags**
 
-- Brand Strategy
-- Brand Positioning
-- Integrated Marketing
-- Campaign Management
-- Product Marketing
-- Employer Branding
-
-Scope
-
-- Corporate brand campaigns
-- Product launch campaigns
-- Integrated marketing communications
-- Campaign messaging
-- Thought leadership
-- Brand activation
-
-Supporting Experience
-
-- Cisco
-- Network18
-
-Representative Projects
-
-- Corporate Brand Campaigns
-- Product Launch Marketing
-
----
-
-## Growth & Demand Generation
-
-Role Fit
-
-- Demand Generation
-- Growth Marketing
-- Revenue Marketing
-
-Capability Tags
-
-- Demand Generation
-- Pipeline Growth
-- Lead Generation
-- ABM
-- Funnel Optimization
-- Lifecycle Marketing
-
-Scope
-
-- Enterprise demand engines
-- Account-based marketing
-- Pipeline acceleration
-- Lead qualification
-- Customer acquisition
-- Sales alignment
-
-Supporting Experience
-
-- Cisco
-- Keysight
-
-Representative Projects
-
-- Enterprise Demand Engine
-- ABM Programs
-- Global GTM
-
----
-
-## Digital & Performance Marketing
-
-Role Fit
-
-- Digital Marketing
-- Performance Marketing
-
-Capability Tags
-
-- Paid Media
-- Performance Marketing
-- Media Planning
-- Media Buying
-- Campaign Optimization
-
-Scope
-
-- Search
-- Social
-- Display
-- Programmatic
-- Video
-- Mobile
-- Ecommerce
-
-Supporting Experience
-
-- Cisco
-- Keysight
-
-Representative Projects
-
-- APJC Media Planning
-- Marketplace Launch
-
----
-
-## Website & Digital Experience
-
-Role Fit
-
-- Head of Digital Marketing
-
-Capability Tags
-
-- Website Governance
-- AEM
-- Cisco WEM
-- SEO
-- Landing Pages
-
-Scope
-
-- Website governance
-- Homepage publishing
-- Landing pages
-- Blog management
-- SEO
-- Digital experience
-
-Supporting Experience
-
-- Cisco
-- Keysight
-
-Representative Projects
-
-- Enterprise Website Governance
-
----
-
-## Social Media
-
-Role Fit
-
-- Integrated Marketing
-- Brand Marketing
-
-Capability Tags
-
-- Social Strategy
-- Editorial Calendar
+- Social Media Strategy
+- Organic Growth
 - Community Management
-- Content Governance
 
-Scope
+**Supporting Experience**
 
-- Corporate social media
-- Editorial governance
-- Community engagement
-- Content planning
+- Cisco Systems Ltd
 
-Supporting Experience
+**Career Highlights**
 
-- Cisco
-
-Representative Projects
-
-- Cisco India Social Media Launch
+- Grew Cisco India's social media presence to 100,000+ organic followers within 12 months across Facebook, LinkedIn, Twitter (X), and YouTube.
 
 ---
 
-## Content & Customer Communications
+## Executive Engagement
 
-Role Fit
-
-- Integrated Marketing
-- Digital Marketing
-
-Capability Tags
-
-- Content Marketing
-- Editorial Planning
-- Email Marketing
-- Lifecycle Marketing
-- Customer Communications
-
-Scope
-
-- Website
-- Blog
-- Email
-- Social
-- Customer stories
-- White papers
-- Case studies
-
-Supporting Experience
-
-- Cisco
-- Keysight
-
-Representative Projects
-
-- Content Operations
-- Lifecycle Marketing
-
----
-
-## Marketing Analytics
-
-Role Fit
-
-- Marketing Operations
-- Digital Marketing
-
-Capability Tags
-
-- Analytics
-- Attribution
-- Dashboarding
-- Executive Reporting
-
-Scope
-
-- GA4
-- Attribution
-- Executive dashboards
-- Marketing reporting
-
-Supporting Experience
-
-- Cisco
-- Keysight
-
-Representative Projects
-
-- Marketing Measurement Framework
-
----
-
-## Events & Field Marketing
-
-Role Fit
+**Role Fit**
 
 - Head of Marketing
-- Regional Marketing
+- Integrated Marketing
 
-Capability Tags
+**Capability Tags**
 
-- Event Marketing
 - Executive Engagement
-- Partner Marketing
+- Field Marketing
 - Webinars
 
-Scope
+**Supporting Experience**
 
-- Conferences
-- Executive roundtables
-- Product launches
-- Partner summits
-- Customer events
+- Cisco Systems Ltd
 
-Supporting Experience
+**Career Highlights**
 
-- Cisco
-- Keysight
-
-Representative Projects
-
-- Executive Engagement Program
+- Led a quarterly CXO Symposium engaging 50 CXOs per quarter (200+ annually).
+- Ran the Cisco Interaction Network Deep Dive webinar series, engaging 1,000 IT decision-makers and influencers monthly for 5 consecutive years.
 
 ---
 
-## AI-enabled Marketing
+## Channel & Partner Marketing
 
-Role Fit
+**Role Fit**
 
-- AI Marketing
-- Marketing Operations
+- Head of Marketing
+- Growth Marketing
+- Demand Generation
 
-Capability Tags
+**Capability Tags**
 
-- AI
-- Workflow Automation
-- Prompt Engineering
-- Conversational AI
-- Productivity
+- Channel Marketing
+- Partner Marketing
+- Joint GTM
 
-Scope
+**Supporting Experience**
 
-- AI-assisted marketing
-- Workflow automation
-- Lead qualification
-- Prompt engineering
-- Personalization
-- AI reporting
+- Cisco Systems Ltd (Compuage, Redington, Ingram Micro)
 
-Supporting Experience
+**Career Highlights**
 
-- Keysight
+- Drove Webex freemium user acquisition with Compuage, generating 6,000+ new users and $1M in incremental revenue (software).
+- Executed a B2B Amazon marketplace program with Redington across hardware products (routers, switches, wireless), generating $120K in new bookings within 12 months — hardware-specific evidence, not used in current software-positioned resumes.
+- Ran a demand generation campaign with Ingram Micro generating 400 qualified leads across India and $4M+ in pipeline within 12 months.
 
-Representative Projects
-
-- AI-enabled Marketing Productivity
-- Conversational AI Solutions
-- Workflow Automation
-
----
-
-# 5. STRATEGIC PROJECT REPOSITORY
-
-Purpose:
-Canonical repository of reusable strategic initiatives.
-
-Rules
-
-- Each project exists once.
-- No repeated metrics.
-- Metrics remain in Business Impact Repository.
-- Capability details remain in Marketing Capability Repository.
-
----
-
-## Corporate Brand Campaigns
-
-Business Context
-
-Strengthen enterprise brand visibility through integrated marketing.
-
-Capabilities
-
-Brand Marketing
-Integrated Marketing
-Campaign Management
-
-Role Fit
-
-Head of Brand Marketing
-Integrated Marketing
-
-Supporting Experience
-
-Cisco
-
----
-
-## Product Launch Marketing
-
-Business Context
-
-Launch enterprise technology solutions across multiple business portfolios.
-
-Capabilities
-
-Product Marketing
-GTM
-Campaign Planning
-
-Supporting Experience
-
-Cisco
-
----
-
-## Enterprise Website Governance
-
-Business Context
-
-Govern enterprise digital properties supporting marketing and customer engagement.
-
-Capabilities
-
-Website Management
-SEO
-Digital Experience
-
-Supporting Experience
-
-Cisco
-Keysight
-
----
-
-## Cisco India Social Media Launch
-
-Business Context
-
-Establish Cisco India's enterprise social media presence.
-
-Capabilities
-
-Social Media
-Community Management
-Editorial Governance
-
-Supporting Experience
-
-Cisco
-
----
-
-## APJC Media Planning
-
-Business Context
-
-Govern enterprise media investments across APJC.
-
-Capabilities
-
-Media Planning
-Media Buying
-Agency Management
-
-Supporting Experience
-
-Cisco
-
----
-
-## Customer Communication & Lifecycle Marketing
-
-Business Context
-
-Deliver personalized communications throughout the customer lifecycle.
-
-Capabilities
-
-Email Marketing
-Marketing Automation
-Customer Communications
-
-Supporting Experience
-
-Cisco
-Keysight
-
----
-
-## Executive Engagement Program
-
-Business Context
-
-Strengthen executive relationships and regional market engagement.
-
-Capabilities
-
-Executive Engagement
-Field Marketing
-Events
-
-Supporting Experience
-
-Cisco
-
----
-
-## Marketing Measurement Framework
-
-Business Context
-
-Improve executive visibility through standardized analytics.
-
-Capabilities
-
-Marketing Analytics
-Attribution
-Executive Dashboards
-
-Supporting Experience
-
-Cisco
-
----
-
-## AI-enabled Marketing Productivity
-
-Business Context
-
-Improve operational productivity through AI-enabled marketing.
-
-Capabilities
-
-AI
-Automation
-Workflow Optimization
-
-Supporting Experience
-
-Keysight
-
----
-
-## Conversational AI Solutions
-
-Business Context
-
-Scale customer engagement using AI-powered interactions.
-
-Capabilities
-
-Conversational AI
-Voice AI
-Chatbots
-
-Supporting Experience
-
-Keysight
-
----
-
-## Workflow Automation
-
-Business Context
-
-Reduce manual effort through intelligent automation.
-
-Capabilities
-
-Workflow Automation
-APIs
-AI Productivity
-
-Supporting Experience
-
-Independent
-
-# 6. LEADERSHIP PORTFOLIO
+# 4. LEADERSHIP EXPERIENCE
 
 Purpose:
 Central repository of executive leadership responsibilities, organizational scope, governance, and business ownership.
@@ -1002,10 +694,9 @@ Rules
 
 Business Scope
 
-- Enterprise Marketing
+- Marketing (general/Head of Marketing)
 - Regional Marketing
 - Global Marketing
-- Marketing Operations
 
 Leadership Areas
 
@@ -1034,8 +725,8 @@ Responsibilities
 
 Supporting Experience
 
-- Cisco
-- Keysight
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
 ---
 
@@ -1045,9 +736,7 @@ Leadership Scope
 
 Internal Teams
 
-- Digital Marketing
-- Media
-- Marketing Analytics
+- Led and developed a team of 5 marketing professionals at Cisco Systems Ltd, spanning Digital Marketing, Media, and Marketing Analytics.
 
 Agency Teams
 
@@ -1066,8 +755,8 @@ Leadership Activities
 
 Supporting Experience
 
-- Cisco
-- Keysight
+- Cisco Systems Ltd
+- Keysight Technologies Ltd
 
 ---
 
@@ -1092,6 +781,26 @@ Responsibilities
 
 ---
 
+## Channel & Distribution Partner Leadership
+
+Distribution Partners
+
+- Redington
+- Compuage
+- Ingram Micro
+
+Responsibilities
+
+- Joint GTM Planning
+- Co-marketing Program Development
+- Channel Partner Enablement
+
+Supporting Experience
+
+- Cisco Systems Ltd
+
+---
+
 ## Stakeholder Leadership
 
 Business Functions
@@ -1099,7 +808,6 @@ Business Functions
 - Sales
 - Product Marketing
 - Regional Marketing
-- Marketing Operations
 - Analytics
 - Channels
 - HR
@@ -1118,14 +826,9 @@ Responsibilities
 
 Markets
 
-- APJC
-- India
-- Australia
-- New Zealand
-- Singapore
-- Korea
-- Japan
-- China
+- India (primary active application market)
+- APJC — Australia, New Zealand, Singapore, Korea, Japan, China
+- GCC / UAE (relocation target)
 - EMEA
 - Americas
 
@@ -1134,6 +837,8 @@ Business Scope
 Regional Marketing
 Global Marketing
 Cross-market Coordination
+
+Active positioning: India and GCC/UAE only.
 
 ---
 
@@ -1147,196 +852,457 @@ Awards
 
 ---
 
-# 7. REFERENCE REPOSITORY
-
-Purpose
-
-Lightweight lookup repository supporting resume generation.
-
-No ownership of facts.
-
----
-
-## Technology Stack
-
-### CRM & Marketing Automation
-
-- Salesforce CRM
-- Oracle Eloqua
-- Marketo
-- HubSpot
-- Mailchimp
-
----
-
-### Paid Media Platforms
-
-- Google Ads
-- Microsoft Advertising
-- LinkedIn Campaign Manager
-- DV360
-- Campaign Manager 360
-- Meta Ads
-- YouTube Ads
-
----
-
-### Analytics
-
-- GA4
-- Adobe Analytics
-- Tableau
-- Power BI
-- Domo
-- Looker Studio
-- Google Search Console
-
----
-
-### AI & Automation
-
-- OpenAI GPT
-- Claude
-- Gemini
-- Perplexity
-- Copilot
-- n8n
-- Dify
-- Retell
-- MCP
-- APIs
-- Webhooks
-
----
-
-### Collaboration
-
-- Jira
-- Miro
-- Slack
-- Asana
-- SharePoint
-
----
-
-### ABM
-
-- Demandbase
-- 6sense
-
----
-
 ## Industry Experience
 
 Industries
 
-- Enterprise Technology
 - B2B SaaS
-
-Markets
-
-- APJC
-- APAC
-- India
-- EMEA
-- Americas
+- Technology
 
 Marketing Domains
 
 - Growth Marketing
-- Demand Generation
+- Demand Generation (incl. ABM)
 - Integrated Marketing
 - GTM
 - Brand Marketing
 - Performance Marketing
-- Marketing Operations
-- AI-enabled Marketing
+- Paid Media
+- AI-enabled Marketing (supporting capability only)
+
+# 5. PROJECTS
+
+Purpose:
+Canonical repository of reusable strategic initiatives.
+
+Rules
+
+- Each project exists once.
+- Every project must carry a quantified metric and outcome. No verified metric → mark "Metric pending," never fabricate.
+- Metrics trace back to Career Highlights (Section 3) wherever possible.
+- Capability details remain in Core Skills.
+
+---
+
+## Enterprise Demand Engine
+
+Business Context
+
+Build scalable demand generation programs and global GTM execution driving pipeline growth for B2B SaaS and technology accounts.
+
+Metrics & Impact
+
+Increased qualified pipeline by 25%; generated 400+ qualified opportunities annually.
+
+Capabilities
+
+Demand Generation
+Pipeline Acceleration
+GTM Strategy
+
+Role Fit
+
+Demand Generation
+Growth Marketing
+
+Supporting Experience
+
+Cisco Systems Ltd
+Keysight Technologies Ltd
+
+---
+
+## ABM Programs
+
+Business Context
+
+Execute intent-driven account-based marketing programs across 1:1, 1:Few, and 1:Many account tiers to drive enterprise account engagement and penetration.
+
+Metrics & Impact
+
+Increased enterprise account penetration to 40% within 6 months.
+
+Capabilities
+
+ABM
+Intent Marketing
+Account Segmentation
+
+Role Fit
+
+Demand Generation
+Growth Marketing
+
+Supporting Experience
+
+Cisco Systems Ltd
+Keysight Technologies Ltd
+
+---
+
+## B2B Ecommerce Marketplace Launch
+
+Business Context
+
+Webex freemium marketplace user acquisition program executed in partnership with Compuage.
+
+Metrics & Impact
+
+Generated $1M in incremental revenue and acquired 6,000+ new users (software).
+
+Capabilities
+
+Ecommerce
+Digital Marketing
+Customer Acquisition
+
+Role Fit
+
+Digital Marketing
+Growth Marketing
+Performance Marketing
+
+Supporting Experience
+
+Cisco Systems Ltd (Compuage)
+
+---
+
+## Partner & Channel Marketing
+
+Business Context
+
+Lead joint go-to-market and co-marketing programs with strategic distribution and channel partners.
+
+Metrics & Impact
+
+- Webex freemium acquisition with Compuage: $1M incremental revenue, 6,000+ new users (software — see also B2B Ecommerce Marketplace Launch above).
+- B2B Amazon marketplace with Redington: $120K in new bookings within 12 months, across hardware products (routers, switches, wireless) — hardware-specific evidence, not used in current software-positioned resumes.
+- Demand generation campaign with Ingram Micro: 400 qualified leads across India, $4M+ in pipeline within 12 months.
+
+Capabilities
+
+Channel Marketing
+Partner Marketing
+Joint GTM
+
+Role Fit
+
+Head of Marketing
+Growth Marketing
+Demand Generation
+
+Supporting Experience
+
+Cisco Systems Ltd (Compuage, Redington, Ingram Micro)
+
+---
+
+## Corporate Brand Campaigns
+
+Business Context
+
+Strengthen enterprise brand visibility through integrated marketing.
+
+Metrics & Impact
+
+Improved brand recall by 9% and brand consideration by 2.5 points.
+
+Capabilities
+
+Brand Marketing
+Integrated Marketing
+Campaign Management
+
+Role Fit
+
+Head of Marketing
+Integrated Marketing
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## Product Launch Marketing
+
+Business Context
+
+Launch B2B SaaS and technology solutions across multiple business portfolios.
+
+Metrics & Impact
+
+Executed across 14+ APJC markets (shared scope evidence with Corporate Brand Campaigns; no separate outcome metric currently verified).
+
+Capabilities
+
+Product Marketing
+GTM
+Campaign Planning
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## Enterprise Website Governance
+
+Business Context
+
+Govern enterprise digital properties supporting marketing and customer engagement.
+
+Metrics & Impact
+
+Increased website traffic by 400% and expanded digital reach by 325%.
+
+Capabilities
+
+Website Management
+SEO
+Digital Experience
+
+Supporting Experience
+
+Cisco Systems Ltd
+Keysight Technologies Ltd
+
+---
+
+## Cisco India Social Media Launch
+
+Business Context
+
+Establish Cisco India's enterprise social media presence.
+
+Metrics & Impact
+
+Grew Cisco India's social media presence to 100,000+ organic followers within 12 months across Facebook, LinkedIn, Twitter (X), and YouTube.
+
+Capabilities
+
+Social Media
+Community Management
+Editorial Governance
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## APJC Media Planning
+
+Business Context
+
+Govern media investments across APJC.
+
+Metrics & Impact
+
+Managed $4M+ annually, delivering 15x ROMI and reducing CPA/CAC by 15–17%.
+
+Capabilities
+
+Media Planning
+Media Buying
+Agency Management
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## Customer Communication & Lifecycle Marketing
+
+Business Context
+
+Deliver personalized communications throughout the customer lifecycle.
+
+Metrics & Impact
+
+Improved lead-to-opportunity conversion by 20% through nurture and lifecycle programs.
+
+Capabilities
+
+Email Marketing
+Marketing Automation
+Customer Communications
+
+Supporting Experience
+
+Cisco Systems Ltd
+Keysight Technologies Ltd
+
+---
+
+## Executive Engagement Program
+
+Business Context
+
+Strengthen executive relationships and regional market engagement.
+
+Metrics & Impact
+
+- Led a quarterly CXO Symposium engaging 50 CXOs per quarter (200+ annually).
+- Ran the Cisco Interaction Network Deep Dive webinar series, engaging 1,000 IT decision-makers and influencers monthly for 5 consecutive years.
+
+Capabilities
+
+Executive Engagement
+Field Marketing
+Events
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## Marketing Measurement Framework
+
+Business Context
+
+Improve executive visibility through standardized analytics.
+
+Metrics & Impact
+
+Improved attribution visibility by 25%.
+
+Capabilities
+
+Marketing Analytics
+Attribution
+Executive Dashboards
+
+Supporting Experience
+
+Cisco Systems Ltd
+
+---
+
+## AI-enabled Marketing Productivity
+
+Business Context
+
+AI-assisted marketing operations spanning conversational and voice AI (website chatbot on Dify for lead qualification and support; voice agent on Retell for inbound customer interaction) and workflow automation (n8n-based lead spam filtering and CRM hygiene). Supporting capability only — not a standalone specialization.
+
+Metrics & Impact
+
+Reduced manual effort by 30+ hours per week through AI-assisted lead qualification, customer interaction, and workflow automation.
+
+Capabilities
+
+AI
+Conversational AI
+Voice AI
+Automation
+Workflow Optimization
+Lead Qualification
+
+Supporting Experience
+
+Keysight Technologies Ltd
+
+# 6. TECHNOLOGY PROFICIENCY
+
+Purpose
+
+Canonical inventory of marketing and technology platforms. Lists below are pipe-separated by design, for direct reuse in resume Technology Proficiency sections.
+
+---
+
+## CRM & Marketing Automation
+
+Salesforce CRM | Salesforce Marketing Cloud | Oracle Eloqua | Marketo Engage | HubSpot | Mailchimp
+
+---
+
+## Paid Media & Programmatic
+
+Google Ads | Microsoft Advertising | LinkedIn Campaign Manager | Meta Ads | DV360 | Campaign Manager 360 | YouTube Ads
+
+---
+
+## Analytics & BI
+
+Google Analytics 4 (GA4) | Adobe Analytics | Tableau | Domo | Looker Studio | Google Search Console
+
+---
+
+## ABM & Intent Data
+
+Demandbase | 6sense | Bombora
+
+---
+
+## AI & Automation
+
+OpenAI GPT | Claude | Gemini | Perplexity | Copilot | n8n | Dify | Retell | MCP | APIs | Webhooks
+
+---
+
+## Collaboration & Project Management
+
+Jira | Miro | Slack | Asana | SharePoint
+
+---
+
+## Website & Content
+
+Adobe Experience Manager (AEM) | Cisco WEM
 
 ---
 
 ## Platform Assets
 
-LinkedIn
-
-- Banner
-- Headline
-- About
-- Featured
-
-Naukri
-
-- Headline
-- Summary
-- Skills
-
-Resume
-
-- Executive Profile
-- Core Skills
-- Career Highlights
+LinkedIn | Naukri | Resume (Career Summary, Core Skills, Career Highlights)
 
 ---
 
-# 8. DOCUMENT GOVERNANCE
+# 7. CERTIFICATIONS
 
 Purpose
 
-Maintain Discovery Resume as the canonical knowledge source.
+Canonical record of professional certifications. Always positioned before Education in generated resumes.
 
 ---
 
-## Ownership Rules
+## Artificial Intelligence Applications for Business Leaders
 
-Discovery Resume owns
-
-- Career chronology
-- Experience
-- Business impacts
-- Projects
-- Leadership
-- AI portfolio
-- Technology references
-- Platform assets
-
-Positioning System owns
-
-- Narrative guidance
-- Role archetypes
-- Resume strategy
-- JD mapping
-
-Keyword Library owns
-
-- ATS vocabulary
-
-Tool Library owns
-
-- Software catalogue
+Issuer: Outskill
+Date: Apr 2026
 
 ---
 
-## Update Rules
+## Google Marketing Platform Certification
 
-Whenever new experience is gained
-
-1. Update Discovery Resume first.
-
-2. Update Tool Library only if a new technology has been used.
-
-3. Update Keyword Library only if a new ATS keyword becomes relevant.
-
-4. Update Positioning System only if targeting a new role archetype.
+Issuer: Google
 
 ---
 
-## Version
+# 8. EDUCATION
 
-Status
+Purpose
 
-Canonical Knowledge Repository
+Canonical record of academic qualifications. Always positioned last in generated resumes.
 
-Single Source of Truth
+---
 
-Last Updated
+## Masters in Business Administration (MBA) – Marketing & Finance
 
-August 2026
+Institution: Army College of Materials Management, Jabalpur, India
+
+---
+
+# 9. DOCUMENT GOVERNANCE
+
+Discovery Resume (this file) is the single source of truth for career facts, chronology, highlights, projects, leadership scope, technology, certifications, and education.
+
+Positioning Guide owns narrative/archetype strategy. ATS Library owns keyword vocabulary. Writing Guide owns formatting standards. UniApp Intelligence owns runtime orchestration.
+
+**Update rule:** new experience or facts go here first, before any other knowledge base file.
+
+**Status:** Canonical Knowledge Repository — Single Source of Truth
+**Last Updated:** August 2026
