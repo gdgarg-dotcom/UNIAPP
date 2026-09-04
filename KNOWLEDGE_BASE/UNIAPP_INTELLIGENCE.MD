@@ -121,6 +121,12 @@ Tailor the Title/Headline and Career Summary to the advertised role while preser
 
 ---
 
+## New Role / Career Update Propagation
+
+When a new role, employer change, or updated scope fact is added to CAREER_PROFILE.MD (e.g. a new current employer), any quantified scope fact tied to that role — team size, budget, region, tier structure, or a named scaling/focus phrase (e.g. "focused scaling across North America and APAC") — must be checked against every one of the 7 resume masters, not only the master the update was first drafted on. Reword per archetype's positioning (see POSITIONING_GUIDE.md), but the underlying fact must appear consistently everywhere it is relevant, not only in whichever resume happened to be edited first. Before closing out a career-update task across multiple resumes, diff the new role's bullets across all masters and flag any archetype where the fact is missing rather than assuming it propagated by copy-paste.
+
+---
+
 ## Location
 
 Current practice does not dynamically insert the advertised location into the resume. Instead, two fixed regional masters are maintained:

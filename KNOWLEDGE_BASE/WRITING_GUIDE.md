@@ -68,10 +68,10 @@ Display at the top of the resume, centered, in this order:
 
 ## Career Summary
 
-- One consolidated paragraph (not two).
+- One consolidated paragraph (not two) — EXCEPTION: the Marketing / Head of Marketing archetype (Marketing.docx and UAE_Marketing.docx) uses two short paragraphs by design — a leadership/positioning paragraph followed by a capabilities paragraph. This is the only archetype permitted to use two paragraphs; all others stay to one.
 - Business-first, tailored to the target role.
-- Bold the key positioning keywords and terms within the paragraph (skills, credentials, numbers) for visual scanning impact — do not bold entire sentences.
-- Keep simple and short for impact — avoid stacking multiple qualifying clauses (e.g. do not combine "20 years total" with "15 years dedicated" in the same sentence unless the specific sub-tenure is core to that resume's positioning, as it is for Digital and Paid Media).
+- Bold the key positioning keywords and terms within the paragraph (skills, credentials, numbers) for visual scanning impact — do not bold entire sentences. This applies via the bold-capable summary helper (e.g. `add_summary_segments` in common.py) — never write the Career Summary as a single unsegmented run of text, or bolding will be silently lost.
+- Keep simple and short for impact — avoid stacking multiple qualifying clauses (e.g. do not combine "20 years total" with "15 years dedicated" in the same sentence). State "20 years of experience" only — no sub-tenure stacking in any archetype, including Digital and Paid Media.
 - Avoid generic objectives or personal statements.
 - For India resumes: no explicit non-India market list (drop APAC/EMEA/Americas mentions from this section).
 - For UAE resumes: mention GCC once; drop the full APAC/EMEA/Americas list in favor of "GCC and global markets."
@@ -187,7 +187,7 @@ Keep concise.
 | Section | Recommended Maximum |
 |----------|--------------------:|
 | Title/Headline | 130 characters (may wrap to 2 lines; single line preferred where it fits) |
-| Career Summary | 550 characters (one consolidated paragraph) |
+| Career Summary | 550 characters (one consolidated paragraph; up to 750 characters for the Marketing archetype's 2-paragraph exception) |
 | Core Skills | 300 characters |
 | Career Highlights | 900 characters |
 | Leadership Experience — Keysight (6 bullets) | 900 characters |
@@ -238,7 +238,7 @@ Before finalizing any resume:
 
 □ Contact line has no city and no GitHub (unless technical role).
 
-□ Career Summary is one consolidated paragraph with bolded keywords.
+□ Career Summary is one consolidated paragraph with bolded keywords (two paragraphs only for the Marketing archetype exception).
 
 □ Core Skills uses pipe-separated format, 12–16 items.
 

@@ -60,11 +60,11 @@ NAME_SIZE = Pt(20)
 TITLE_SIZE = Pt(10.5)
 H2_SIZE = Pt(10.5)
 
-SECTION_SPACE_BEFORE = Pt(6.5)   # identical before every section header, no exceptions
-SECTION_SPACE_AFTER = Pt(3)      # identical after every section header, no exceptions
-BULLET_SPACE_AFTER = Pt(1.5)     # identical after every bullet, no exceptions
-ROLE_SPACE_BEFORE = Pt(6.5)
-ROLE_SPACE_AFTER = Pt(1.5)
+SECTION_SPACE_BEFORE = Pt(5.2)   # identical before every section header, no exceptions
+SECTION_SPACE_AFTER = Pt(2.4)    # identical after every section header, no exceptions
+BULLET_SPACE_AFTER = Pt(1.2)     # identical after every bullet, no exceptions
+ROLE_SPACE_BEFORE = Pt(5.2)
+ROLE_SPACE_AFTER = Pt(1.2)
 LINE_SPACING = 1.0               # single — never 1.08/1.15
 
 
@@ -154,6 +154,18 @@ def add_body_paragraph(doc, text, after=Pt(4.5)):
     return p
 
 
+def add_summary_segments(doc, segments, after=Pt(4.5)):
+    """Bold-capable paragraph for Career Summary — segments: list of (text, bold) tuples.
+    Always use this (never add_body_paragraph) for Career Summary so keyword bolding
+    is never silently lost."""
+    p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=Pt(0), after=after)
+    for text, bold in segments:
+        r = p.add_run(text)
+        set_run(r, size=BODY_SIZE, color=DARKGRAY, bold=bold)
+    return p
+
+
 # ---------- Document build ----------
 def build_resume():
     doc = Document()
@@ -200,25 +212,27 @@ def build_resume():
     )
     add_bottom_border(p, sz=8)
 
-    # ---- Executive Highlights ----
-    add_section_heading(doc, "Executive Highlights")
-    add_body_paragraph(
-        doc,
-        "Digital & Integrated Marketing leader with 20 years of experience leading go-to-market "
-        "strategy, growth marketing, demand generation, and digital marketing across B2B SaaS and "
-        "technology organizations. Proven success partnering with Sales, Product, Customer Success, "
-        "and executive leadership to accelerate pipeline growth, strengthen digital visibility, and "
-        "deliver measurable revenue impact across the Americas, EMEA, and APJC.",
-        after=Pt(4.5),
-    )
-    add_body_paragraph(
-        doc,
-        "Experienced building integrated digital marketing programs for enterprise decision-makers "
-        "across B2B SaaS and technology environments. Combines strategic leadership with hands-on "
-        "execution across digital marketing, paid media, demand generation, marketing analytics, "
-        "automation, and AI-enabled marketing operations.",
-        after=Pt(0),
-    )
+    # ---- Career Summary ----
+    # (Was "Executive Highlights" — WRITING_GUIDE.md's canonical heading is
+    # "Career Summary". Also restored keyword bolding via add_summary_segments,
+    # which this section previously lacked.)
+    add_section_heading(doc, "Career Summary")
+    add_summary_segments(doc, [
+        ("Digital & Integrated Marketing leader with ", False), ("20 years of experience", True),
+        (" leading ", False), ("go-to-market strategy", True), (", ", False), ("growth marketing", True),
+        (", ", False), ("demand generation", True), (", and ", False), ("digital marketing", True),
+        (" across ", False), ("B2B SaaS", True), (" and technology organizations. Proven success "
+         "partnering with Sales, Product, Customer Success, and executive leadership to accelerate "
+         "pipeline growth, strengthen digital visibility, and deliver measurable revenue impact across "
+         "the Americas, EMEA, and APJC.", False),
+    ], after=Pt(4.5))
+    add_summary_segments(doc, [
+        ("Experienced building integrated digital marketing programs for enterprise decision-makers "
+         "across B2B SaaS and technology environments. Combines strategic leadership with hands-on "
+         "execution across ", False), ("digital marketing", True), (", ", False), ("paid media", True),
+        (", ", False), ("demand generation", True), (", ", False), ("marketing analytics", True),
+        (", automation, and ", False), ("AI-enabled marketing operations", True), (".", False),
+    ], after=Pt(0))
 
     # ---- Core Skills ----
     add_section_heading(doc, "Core Skills")
@@ -273,6 +287,22 @@ def build_resume():
     add_bullet(doc, [("Directed agency partners, marketing vendors, analytics teams, and cross-functional stakeholders across multiple markets to deliver consistent GTM execution.", False)])
     add_bullet(doc, [("Modernized marketing measurement and executive reporting through GA4 and Salesforce integration, improving attribution visibility by ", False), ("25%", True), (".", False)])
 
+    # ---- Projects ----
+    # (NEW — WRITING_GUIDE.md requires a Projects section between Leadership
+    # Experience and Earlier Experience. Every metric below is reused from
+    # Career Highlights above, not newly introduced.)
+    add_section_heading(doc, "Projects")
+    add_bullet(doc, [("Enterprise Demand Engine: ", True), ("Built integrated demand generation and ABM programs, increasing ", False), ("qualified pipeline creation by 25%", True), (" through account-based engagement and regional GTM execution.", False)])
+    add_bullet(doc, [("Media Portfolio Optimization: ", True), ("Delivered ", False), ("15x ROMI", True), (" while improving ", False), ("qualified conversions by 22%", True), (" and reducing ", False), ("CPA by 17%", True), (" through audience segmentation and analytics-led optimization.", False)])
+    add_bullet(doc, [("Marketing Measurement Framework: ", True), ("Modernized GA4 and Salesforce-integrated executive reporting, improving ", False), ("marketing attribution visibility by 25%", True), (".", False)])
+    add_bullet(doc, [("Customer Engagement & Lifecycle Marketing: ", True), ("Improved ", False), ("lead-to-opportunity conversion by 20%", True), (" through Sales-Marketing alignment and lifecycle optimization.", False)])
+
+    # ---- Earlier Experience ----
+    # (Was previously merged under "Leadership Experience" — WRITING_GUIDE.md
+    # requires these two roles under their own "Earlier Experience" heading,
+    # positioned after Projects.)
+    add_section_heading(doc, "Earlier Experience")
+
     add_role_header(doc, "INTEGRATED MARKETING", "Network18 Media Ltd", "2009 – 2011")
     add_bullet(doc, [("Managed integrated marketing campaigns across television, print, digital, sponsorships, and events.", False)])
     add_bullet(doc, [("Developed marketing solutions aligned with client business objectives, audience engagement, and brand positioning.", False)])
@@ -284,33 +314,42 @@ def build_resume():
     add_bullet(doc, [("Supported strategic planning, campaign development, customer engagement, and media optimization initiatives.", False)])
     add_bullet(doc, [("Coordinated campaign reporting, proposal development, stakeholder communication, and client presentations.", False)])
 
-    # ---- Thought Leadership ----
-    add_section_heading(doc, "Thought Leadership & Executive Engagement")
-    add_bullet(doc, [("Developed executive-focused marketing programs for enterprise technology decision-makers across APAC and global markets.", False)])
-    add_bullet(doc, [("Led webinar, conference, executive roundtable, and customer event strategies supporting pipeline generation and market positioning.", False)])
-    add_bullet(doc, [("Partnered with product and regional leadership to strengthen brand visibility, customer engagement, and industry credibility.", False)])
-
-    # ---- Technology & Marketing Stack ----
-    add_section_heading(doc, "Technology & Marketing Stack Proficiency")
+    # ---- Technology Proficiency ----
+    # (Was "Technology & Marketing Stack Proficiency" — renamed to match
+    # WRITING_GUIDE.md's canonical heading. The non-canonical "Thought
+    # Leadership & Executive Engagement" section that used to sit here has
+    # been removed: it isn't part of the required section order, and its
+    # bullets carried no quantified metrics so they couldn't qualify as
+    # Projects either per WRITING_GUIDE.md's Projects rule.)
+    add_section_heading(doc, "Technology Proficiency")
     add_sub_label(doc, "CRM & Marketing Automation", "Salesforce CRM | HubSpot | Oracle Eloqua | Marketo Engage")
     add_sub_label(doc, "ABM & Demand Generation", "LinkedIn Campaign Manager | Google Ads | DV360 | Meta Ads | Intent & Audience Targeting")
     add_sub_label(doc, "Analytics & Business Intelligence", "Google Analytics 4 (GA4) | Power BI | Tableau | Domo | Looker Studio")
     add_sub_label(doc, "AI & Workflow Automation", "ChatGPT | Claude | n8n | AI-Assisted Marketing Workflows")
 
-    # ---- Education & Certification ----
-    add_section_heading(doc, "Education & Certification")
-    p = doc.add_paragraph()
-    set_paragraph_spacing(p, before=Pt(0), after=Pt(1.5))
-    set_run(p.add_run("Masters in Business Administration (MBA) – Marketing & Finance"), bold=True)
-    p = doc.add_paragraph()
-    set_paragraph_spacing(p, before=Pt(0), after=Pt(6))
-    set_run(p.add_run("Army College of Materials Management, Jabalpur, India"), color=MIDGRAY, italic=True)
+    # ---- Certifications ----
+    add_section_heading(doc, "Certifications")
     p = doc.add_paragraph()
     set_paragraph_spacing(p, before=Pt(0), after=Pt(1.5))
     set_run(p.add_run("Artificial Intelligence Applications for Business Leaders"), bold=True)
     p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=Pt(0), after=Pt(6))
+    set_run(p.add_run("Outskill | Apr 2026"), color=MIDGRAY, italic=True)
+    p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=Pt(0), after=Pt(1.5))
+    set_run(p.add_run("Google Marketing Platform Certification"), bold=True)
+    p = doc.add_paragraph()
     set_paragraph_spacing(p, before=Pt(0), after=Pt(0))
-    set_run(p.add_run("Outskill (Apr 2026)"), color=MIDGRAY, italic=True)
+    set_run(p.add_run("Google"), color=MIDGRAY, italic=True)
+
+    # ---- Education ----
+    add_section_heading(doc, "Education")
+    p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=Pt(0), after=Pt(1.5))
+    set_run(p.add_run("Masters in Business Administration (MBA) – Marketing & Finance"), bold=True)
+    p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=Pt(0), after=Pt(0))
+    set_run(p.add_run("Army College of Materials Management, Jabalpur, India"), color=MIDGRAY, italic=True)
 
     return doc
 
